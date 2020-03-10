@@ -39,9 +39,9 @@ The characteristics of this small application are:
   Bring up an Administrator command prompt and navigate to the deployed folder, then execute “uninstall_service.bat”
   
 <b>#Windows Event ID for file / directory changes</b><p> 
-  Event ID 7776 – File / Directory creation
-  Event ID 7777 – File modification
-  Event ID 7778 – File / Directory deletion
+  Event ID 7776 – File / Directory creation<p>
+  Event ID 7777 – File modification<p>
+  Event ID 7778 – File / Directory deletion<p>
   
  Enjoy!
  
