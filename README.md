@@ -45,5 +45,5 @@ The characteristics of this small application are:
   
  Enjoy!
  
- Cheers<p>
+ Cheers<br>
  Henry
