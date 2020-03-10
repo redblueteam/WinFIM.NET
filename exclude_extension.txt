@@ -1,7 +1,0 @@
-bak
-tmp
-log
-mdf
-ldf
-xel
-installlog
