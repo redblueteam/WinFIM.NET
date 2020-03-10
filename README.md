@@ -11,7 +11,7 @@ I have developed a small Windows Service named “WinFIM.NET” (https://github.
 <b>#characteristics</b><p>
 The characteristics of this small application are:
 
--It will identify add / remove / modify of files and directories
+- It will identify add / remove / modify of files and directories
 - Monitoring scope could be easily customized
 - Path exclusion (e.g. sub-directory) could be configured
 - File extension could be configured (e.g. *.bak, *.tmp, *.log, *.mdf, *.ldf, *.xel, *. installlog)
